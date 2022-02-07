@@ -11,7 +11,7 @@ public class SetUp {
 
 	static WebDriver driver;
 	public String baseUrl = "https://5elementslearning.dev/demosite/index.php";
-	public String mailg = "testa@testa.com";
+	public String mailg = "atesta@testa.com";
 	public String password = "password";
 	
 	@BeforeTest
